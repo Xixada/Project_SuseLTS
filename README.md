@@ -1,5 +1,5 @@
 # Project_SuseLTS
-<body bgcolor="black">
+<body bgcolor="white">
 <p>Don't Reedit without admin permission!.</p>
 <img src="pegq.png">
 <img src="20220723_143615.jpg">
