@@ -1,6 +1,6 @@
 # Project_SuseLTS
 <p>Don't Reedit without admin permission!.</p>
-<img src="pegasuselts.jpg">
+<img src="20220723_143615.jpg">
 
 # Installations
 
